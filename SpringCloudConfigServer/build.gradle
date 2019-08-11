@@ -1,0 +1,8 @@
+description = "Spring Cloud Config Server"
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-server
+    compile ('org.springframework.cloud:spring-cloud-config-server')
+
+}
+

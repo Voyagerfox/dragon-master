@@ -1,0 +1,3 @@
+rootProject.name = 'dragon-master'
+include 'SpringCloudConfigServer'
+
