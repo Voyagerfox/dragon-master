@@ -10,6 +10,6 @@ spring:
       discovery:
         register: false
   application:
-    name: dragonConfig
+    name: dragonAuth
 server:
   port: 7012
