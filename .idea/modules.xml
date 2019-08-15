@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DragonConfig/DragonConfig.iml" filepath="$PROJECT_DIR$/DragonConfig/DragonConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthServer/com.china.dragon.AuthServer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCloudConfigServer/com.china.dragon.SpringCloudConfigServer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.iml" filepath="$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.china.dragon.dragon-master.test.iml" />
     </modules>
   </component>
 </project>
